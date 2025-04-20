@@ -1,0 +1,7 @@
+atproto
+tqdm
+matplotlib
+ipykernel
+openai
+dotenv
+networkx
